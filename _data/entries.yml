@@ -19,6 +19,13 @@
   twitter: pushstartr
   facebook: pushstartr
 
+- name: CityHook
+  category: startup
+  url: cityhook.com
+  description: Airports are best departed. Find and book the best way between airport and where you need to be.
+  twitter: cityhook
+  facebook: cityhook
+
 # - name: Your Company
 #   category: company
 #   description: Get your company featured here. See the FAQ for instructions.
